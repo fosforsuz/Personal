@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Todo.Domains", "Personal.Todo.Domains\Personal.Todo.Domains.csproj", "{CA9FC219-20A3-4062-9387-84D77C9D151D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Todo.Core", "Personal.Todo.Core\Personal.Todo.Core.csproj", "{61155826-6635-4670-A26F-D418E979CB89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Todo.DataAccess", "Personal.Todo.DataAccess\Personal.Todo.DataAccess.csproj", "{C911CF50-3828-447D-B289-9BAFC0244914}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Todo.Business", "Personal.Todo.Business\Personal.Todo.Business.csproj", "{D60887FA-5202-44CB-A17A-396786D5D9D3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Personal.Todo.API", "Personal.Todo.API\Personal.Todo.API.csproj", "{84079CF2-0496-4824-8CE5-627E2EE8C067}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "personal.todo.frontend", "personal.todo.frontend\", "{76C2AC4D-48D2-473B-9F34-5AA05C3CE2DC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55204"
+		Debug.AspNetCompiler.PhysicalPath = "personal.todo.frontend\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55204\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55204"
+		Release.AspNetCompiler.PhysicalPath = "personal.todo.frontend\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55204\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55204"
+		SlnRelativePath = "personal.todo.frontend\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA9FC219-20A3-4062-9387-84D77C9D151D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA9FC219-20A3-4062-9387-84D77C9D151D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA9FC219-20A3-4062-9387-84D77C9D151D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA9FC219-20A3-4062-9387-84D77C9D151D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61155826-6635-4670-A26F-D418E979CB89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61155826-6635-4670-A26F-D418E979CB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61155826-6635-4670-A26F-D418E979CB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61155826-6635-4670-A26F-D418E979CB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C911CF50-3828-447D-B289-9BAFC0244914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C911CF50-3828-447D-B289-9BAFC0244914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C911CF50-3828-447D-B289-9BAFC0244914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C911CF50-3828-447D-B289-9BAFC0244914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D60887FA-5202-44CB-A17A-396786D5D9D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D60887FA-5202-44CB-A17A-396786D5D9D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D60887FA-5202-44CB-A17A-396786D5D9D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D60887FA-5202-44CB-A17A-396786D5D9D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84079CF2-0496-4824-8CE5-627E2EE8C067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84079CF2-0496-4824-8CE5-627E2EE8C067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84079CF2-0496-4824-8CE5-627E2EE8C067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84079CF2-0496-4824-8CE5-627E2EE8C067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76C2AC4D-48D2-473B-9F34-5AA05C3CE2DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C2AC4D-48D2-473B-9F34-5AA05C3CE2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C2AC4D-48D2-473B-9F34-5AA05C3CE2DC}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C2AC4D-48D2-473B-9F34-5AA05C3CE2DC}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E013F267-0082-4C07-84B1-8C536630C8D1}
+	EndGlobalSection
+EndGlobal

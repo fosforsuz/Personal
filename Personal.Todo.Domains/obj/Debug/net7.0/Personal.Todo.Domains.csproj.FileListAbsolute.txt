@@ -1,0 +1,11 @@
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\bin\Debug\net7.0\Personal.Todo.Domains.deps.json
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\bin\Debug\net7.0\Personal.Todo.Domains.dll
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\bin\Debug\net7.0\Personal.Todo.Domains.pdb
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\Personal.Todo.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\Personal.Todo.Domains.AssemblyInfoInputs.cache
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\Personal.Todo.Domains.AssemblyInfo.cs
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\Personal.Todo.Domains.csproj.CoreCompileInputs.cache
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\Personal.Todo.Domains.dll
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\refint\Personal.Todo.Domains.dll
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\Personal.Todo.Domains.pdb
+C:\Users\talha\Masaüstü\Personal\Personal.Todo.Domains\obj\Debug\net7.0\ref\Personal.Todo.Domains.dll
